@@ -39,4 +39,22 @@ def ppois(x,lamda):
     if x < 0:
         return 0
 
-    return
+    total = 0
+    c = 0
+
+    while c <= x:
+        total = total + dpois(c,lamda)
+        c = c + 1
+
+    return total
+
+
+def qpois(alpha,lamda):
+    """Calculate ... idk yet"""
+
+    if alpha > 1:
+        return math.inf
+
+    if alpha < 0:
+        return -math.inf
+
