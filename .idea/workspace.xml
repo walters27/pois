@@ -4,16 +4,15 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7554e10e-d33e-4ad9-856e-a2fd530b688c" name="Changes" comment="1st commit ppois in progress">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pois.py" beforeDir="false" afterPath="$PROJECT_DIR$/pois.py" afterDir="false" />
-    </list>
+    <list default="true" id="7554e10e-d33e-4ad9-856e-a2fd530b688c" name="Changes" comment="1st commit ppois in progress" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -39,7 +38,7 @@
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -58,7 +57,7 @@
       <updated>1788825492303</updated>
       <workItem from="1788825493268" duration="2789000" />
       <workItem from="1788828404004" duration="608000" />
-      <workItem from="1788829022100" duration="1543000" />
+      <workItem from="1788829022100" duration="1654000" />
     </task>
     <task id="LOCAL-00001" summary="1st commit ppois in progress">
       <option name="closed" value="true" />
@@ -68,7 +67,23 @@
       <option name="project" value="LOCAL" />
       <updated>1788828310793</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1st commit ppois in progress">
+      <option name="closed" value="true" />
+      <created>1788830597601</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1788830597601</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1st commit ppois in progress">
+      <option name="closed" value="true" />
+      <created>1788830616701</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1788830616701</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
