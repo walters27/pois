@@ -58,4 +58,3 @@ def qpois(alpha,lamda):
     if alpha < 0:
         return -math.inf
 
-"""test"""
